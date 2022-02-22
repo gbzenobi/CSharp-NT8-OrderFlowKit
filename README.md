@@ -5,6 +5,8 @@ Esta es un kit de herramientas de analisis de volumen que comenze a programar en
 <h1>History</h1>
 TODO
 
-# Bookmap.cs
+<h1>All the proyect</h1>
+<p>Bookmap.cs</p>
 
-<img>/book_map_imgs/2_bid_and_ask.png</img>
+![bookmap1](/book_map_imgs/2_bid_and_ask.png)
+
