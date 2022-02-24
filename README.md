@@ -20,8 +20,9 @@ The same for Data Series of each Chart we use: New->Chart->Instrument(for exampl
 ![ds](/how_install/tick_replay_data_series.png)
 
 <h2>Bookmap.cs</h2>
-Setup.
+The bookmap serves to see the depth of market (DOM or Level 2) using a heat map, which is useful to detect capital injections, aggressive and passive orders, aggressive levels of volume and also comes with an Order Book that shows the distribution of the price along with the total amount of volume in the market (both Total and Bid/Ask).
 
+It is a very complete tool because it allows us to apply filters of orders and data to numerical and percentage level, plus a wide range of styles that lets us vary from colors to size of the letters and limits, but that's not all ... There is an option called "Realtime save session" within "Book Map Database" with which we can record in real time all the data extracted by the Bookmap and then save it in a .db file, this is very useful because we can reload the session whenever we want and not lose any progress. Another great feature is to be able to use this file (if you know how to read it) for data analysis, applying Machine Learning or any statistical method to look for patterns, in fact this is the purpose of such functionality.
 
-![bookmap1](/book_map_imgs/2_bid_and_ask.png)
+![bookmap1](/book_map_imgs/setup.png)
 
