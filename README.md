@@ -7,12 +7,21 @@ The fist step is to copy the files on AddOns folder and then paste it in the pat
 
 ![addons](/how_install/addons.png)
 
-The we need to do the same for the indicators(Bookmap.cs, MarketVolume.cs, OrderFlow.cs, VolumeAnalysisProfile.cs, VolumeFilter.cs).
+The we need to do the same for the indicators(Bookmap.cs, MarketVolume.cs, OrderFlow.cs, VolumeAnalysisProfile.cs, VolumeFilter.cs). We paste it in the Ninjatrader8 indicators folder
 
 ![addons](/how_install/indicators.png)
 
-<h1>All the proyect</h1>
-<p>Bookmap.cs</p>
+Finally we need to activate "Tick Replay": Tools->Options->Market Data and activate "Show Tick Replay".
+
+![opts](/how_install/tick_replay_enabled.png)
+
+The same for Data Series of each Chart we use: New->Chart->Instrument(for example ES) and activate "Tick Replay".
+
+![ds](/how_install/tick_replay_data_series.png)
+
+<h2>Bookmap.cs</h2>
+Setup.
+
 
 ![bookmap1](/book_map_imgs/2_bid_and_ask.png)
 
