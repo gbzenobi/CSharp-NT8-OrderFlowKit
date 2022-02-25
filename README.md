@@ -60,3 +60,5 @@ Demo of default config of BookMap.
 <h1>Volume Profile</h1>
 
 <h1>Volume Filter</h1>
+
+<h1>Market Volume</h1>
