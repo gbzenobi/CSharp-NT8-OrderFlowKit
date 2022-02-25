@@ -49,7 +49,7 @@ The order flow is a tool that allows us to see the flow of orders in the market,
 the level of supply and demand. A good trader(or an AI algorithm in my case) can provide us information about a possible future price imbalance, and using this knowledge exploit a resistance point at which to place an order.
 In other words, the order flow shows us the number of contracts at each price level, which is why it is sometimes also called "Cluster Chart" or "Footprint".
 
-This tools offers a lot of styles and formulas to deal with it.
+This tools offers a lot of styles and formulas to deal with it:
 * Formulas: Bid/Ask, Total Delta, Total, Delta
 * Representation: Volume(raw numbers), Percent
 * Position(Profile): Left, Right
@@ -86,8 +86,50 @@ Using Heatmap style(Total formula)
 
 <h1>Volume Profile</h1>
 
+The volume profile shows a horizontal distribution of the number of contracts traded at each price level over a period of time. It also provides additional information such as POC, POI, Delta volume, Total Volume over a certain period of time.
+One of its features is that it gives us the possibility to drag and drop, so we can select price zones and make a volume profile (we can also delete them when we don't need them).
 
+Features:
+* Formulas: Total, Delta, BidAsk, TotalAndBidAsk, TotalAndDelta, TotalAndDeltaAndBidAskm
+* Ladder information: BidAsk, TotalAndDelta, Total, Delta.
+* Time: Days, Minutes, Hours
+* POC and POI.
+* Hold CTRL and select a zone in the chart(the selected area will be marked in blue), then left click to show a new Volume Profile.
+* Hold SHIFT and select an added Volume Profile(if the selected area is correct will be marked in red), then left click to delete a Volume Profile.
+
+![volumeprofile1](/volume_analysis_profile_imgs/setup.png)
+![volumeprofile2](/volume_analysis_profile_imgs/props.png)
+
+Default config(BidAsk formula).
+
+![volumeprofile3](/volume_analysis_profile_imgs/bidask_poc_poi.png)
+
+Total and BidAsk formula
+
+![volumeprofile4](/volume_analysis_profile_imgs/totalbidask_poc_poi.png)
+
+Zooming the ladder of prices to see the volume.
+
+![volumeprofile5](/volume_analysis_profile_imgs/ladder_information.png)
+
+Only Delta volume calculations
+
+![volumeprofile6](/volume_analysis_profile_imgs/Delta.png)
+
+Select a zone to add a new volume profile.
+
+![volumeprofile7](/volume_analysis_profile_imgs/press_ctrl_and_drag_before.png)
+
+Select a volume profile to delete.
+
+![volumeprofile8](/volume_analysis_profile_imgs/pos_and_shift.png)
+
+Total and Delta and BidAsk volume
+
+![volumeprofile8](/volume_analysis_profile_imgs/total_delta_bidask_poc_poi.png)
 
 <h1>Volume Filter</h1>
+
+
 
 <h1>Market Volume</h1>
