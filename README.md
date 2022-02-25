@@ -130,7 +130,7 @@ Total and Delta and BidAsk volume
 
 <h1>Volume Filter</h1>
 
-The volume filter is an indispensable weapon when we need to detect areas of important volume, probably the market is in a battle between buyers and sellers. Sometimes we will only filter out a specific amount of volume while at other times we will need a "map" of all incoming volume (from the smallest to the most aggressive).
+The volume filter is an indispensable weapon when we need to detect areas of important volume, probably the market is in a battle between buyers and sellers. Sometimes we will only filter out a specific amount of volume while at other times we will need a "map" of all incoming volume (from the smallest to the most aggressive). This tool is very useful if is combined, for example with the Book Map.
 
 Features:
 Formula: Delta, Total.
@@ -161,3 +161,31 @@ Using Circles geometry with Total formula
 ![volumefilter5](/volume_filter_imgs/total_circle_nofill.png)
 
 <h1>Market Volume</h1>
+
+This is the simplest volume analysis tool, and one of the most used... with it we can see the total amount of Delta volume, accumulated volume among other characteristics. One of the most innovative things is that we can choose cumulative time-frames (most tools of this type only allow a fixed time) as a default period. So we can set volume time-frames.
+
+Features:
+* Formula: BidAsk, Delta, Total, TotalBidAsk, TotalDelta.
+* Period: 1(by default, if we increase this amount we can accumulate the volume period)
+* Market calculation style: Zero Line Color
+
+Default setup.
+
+![marketvolume1](/market_volume_imgs/setup.png)
+
+Using Delta formula, Periods: 5
+
+![marketvolume2](/market_volume_imgs/delta.png)
+
+Using Total formula, Periods: 5
+
+![marketvolume3](/market_volume_imgs/total.png)
+
+Using TotalDelta formula, Periods: 5
+
+![marketvolume4](/market_volume_imgs/total_delta.png)
+
+Using TotalBidAsk formula, Periods: 5
+
+![marketvolume5](/market_volume_imgs/total_delta.png)
+
