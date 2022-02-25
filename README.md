@@ -50,14 +50,43 @@ the level of supply and demand. A good trader(or an AI algorithm in my case) can
 In other words, the order flow shows us the number of contracts at each price level, which is why it is sometimes also called "Cluster Chart" or "Footprint".
 
 This tools offers a lot of styles and formulas to deal with it.
+* Formulas: Bid/Ask, Total Delta, Total, Delta
+* Representation: Volume(raw numbers), Percent
+* Position(Profile): Left, Right
+* Style: Profile, Heatmap
+* Cluster POC, POC Lines, Cluster POI, POI Lines
+* Extra info: POC = Point of control(Maximum volume cluster), POI = Point of imbalance(Minimum volume cluster)
+The POI is a concept that i create, and just is the oppose to the POC...
 
 ![orderflow1](/order_flow_imgs/setup.png)
 
-Demo of default config of the Order Flow/Footprint/Cluster chart.
+Demo of default config of the Order Flow/Footprint/Cluster chart(using BidAsk formula).
 
 ![orderflow2](/order_flow_imgs/bidask_volume_poc_poi.png)
 
+Cluster POC + Cluster POI + POC and POI Lines(using TotalDelta formula)
+
+![orderflow3](/order_flow_imgs/total_delta_cluster_poc_poi_lines.png)
+
+Zooming the cluster we can see the contracts(using TotalDelta formula)
+
+![orderflow4](/order_flow_imgs/total_delta_volume.png)
+
+![orderflow5](/order_flow_imgs/bidask_volume_poc_poi2.png)
+
+Using Heatmap style(BidAsk formula)
+
+![orderflow6](/order_flow_imgs/bidask_volume_poc_poi_heatmap2.png)
+
+Using Heatmap style(Total formula)
+
+![orderflow7](/order_flow_imgs/total_volume_poc_poi_heatmap.png)
+
+![orderflow8](/order_flow_imgs/total_volume_poc_poi_heatmap2.png)
+
 <h1>Volume Profile</h1>
+
+
 
 <h1>Volume Filter</h1>
 
