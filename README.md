@@ -53,7 +53,7 @@ This tools offers a lot of styles and formulas to deal with it.
 
 ![orderflow1](/order_flow_imgs/setup.png)
 
-Demo of default config of BookMap.
+Demo of default config of the Order Flow/Footprint/Cluster chart.
 
 ![orderflow2](/order_flow_imgs/bidask_volume_poc_poi.png)
 
