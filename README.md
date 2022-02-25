@@ -1,5 +1,5 @@
 <h1>About</h1>
-Esta es un kit de herramientas de analisis de volumen que comenze a programar en Febrero de 2020, esta enfocado a todos los mercados de Futuros y escrito en C#, Particularmente corre en la plataforma NinjaTrader8. Aunque creo que hay cosas que faltan agregar libero el codigo para ayudar a toda la comunidad de programadores interesados en los mercados financieros y el trading, saludos!
+This is a volume analysis toolkit that I started programming in February 2020, it is focused on all Futures markets and written in C#, Particularly runs on the NinjaTrader8 platform, and it is based on the Wyckoff method. Although I think there are more things that can be added I release the code to help the whole community of programmers interested in financial markets and trading, greetings!
 <br/>
 
 <h2>How install</h2>
