@@ -187,5 +187,4 @@ Using TotalDelta formula, Periods: 5
 
 Using TotalBidAsk formula, Periods: 5
 
-![marketvolume5](/market_volume_imgs/total_delta.png)
-
+![marketvolume5](/market_volume_imgs/total_bid_ask.png)
