@@ -49,3 +49,10 @@ The order flow is a tool that allows us to see the flow of orders in the market,
 the level of supply and demand. A good trader(or an AI algorithm in my case) can provide us information about a possible future price imbalance, and using this knowledge exploit a resistance point at which to place an order.
 In other words, the order flow shows us the number of contracts at each price level, which is why it is sometimes also called "Cluster Chart" or "Footprint".
 
+This tools offers a lot of styles and formulas to deal with it.
+
+![orderflow1](/order_flow_imgs/setup.png)
+
+Demo of default config of BookMap.
+
+![orderflow2](/order_flow_imgs/bidask_volume_poc_poi.png)
