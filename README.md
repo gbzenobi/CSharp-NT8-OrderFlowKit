@@ -114,7 +114,7 @@ Zooming the ladder of prices to see the volume.
 
 Only Delta volume calculations
 
-![volumeprofile6](/volume_analysis_profile_imgs/Delta.png)
+![volumeprofile6](/volume_analysis_profile_imgs/delta_poc_poi.png)
 
 Select a zone to add a new volume profile.
 
@@ -126,10 +126,38 @@ Select a volume profile to delete.
 
 Total and Delta and BidAsk volume
 
-![volumeprofile8](/volume_analysis_profile_imgs/total_delta_bidask_poc_poi.png)
+![volumeprofile9](/volume_analysis_profile_imgs/total_delta_bidask_poc_poi.png)
 
 <h1>Volume Filter</h1>
 
+The volume filter is an indispensable weapon when we need to detect areas of important volume, probably the market is in a battle between buyers and sellers. Sometimes we will only filter out a specific amount of volume while at other times we will need a "map" of all incoming volume (from the smallest to the most aggressive).
 
+Features:
+Formula: Delta, Total.
+Min volume filter: X(a volume less than this amount will be discarted)
+Geometry:
+Drawn: Circle, Rectangle.
+Fill: True, False.
+Agressive level: X(this impact on the size of the volume zone).
+Among others...
+
+Default setup
+![volumefilter1](/volume_filter_imgs/setup.png)
+
+Filtering volume using Delta formula.
+
+![volumefilter2](/volume_filter_imgs/delta_circle_fill.png)
+
+Zooming
+
+![volumefilter3](/volume_filter_imgs/delta_circle_nofill.png)
+
+Using rectangles geometry
+
+![volumefilter4](/volume_filter_imgs/delta_rect_nofill2.png)
+
+Using Circles geometry with Total formula
+
+![volumefilter5](/volume_filter_imgs/total_circle_nofill.png)
 
 <h1>Market Volume</h1>
