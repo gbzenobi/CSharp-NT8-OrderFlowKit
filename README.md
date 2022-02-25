@@ -56,3 +56,7 @@ This tools offers a lot of styles and formulas to deal with it.
 Demo of default config of BookMap.
 
 ![orderflow2](/order_flow_imgs/bidask_volume_poc_poi.png)
+
+<h1>Volume Profile</h1>
+
+<h1>Volume Filter</h1>
