@@ -2,6 +2,41 @@
 This is a volume analysis toolkit that I started programming in February 2020, it is focused on all Futures markets and written in C#, Particularly runs on the NinjaTrader8 platform, and it is based on the Wyckoff method. Although I think there are more things that can be added I release the code to help the whole community of programmers interested in financial markets and trading, greetings!
 <br/>
 
+<h2>Contribute to this project</h2>
+if you want to contribute, you can donate to any of the following addresses(Binance).
+
+![btc](/crypto_imgs/bitcoin.png) Coin: BTC(Bitcoin), Network: BEP20
+<br/>
+Address: **0x5fc50c6108102c7d754471ce0db35b4ca3c19b34**
+
+![eth](/crypto_imgs/ethereum.png) Coin: ETH(Ethereum), Network: BEP20 / ERC20
+<br/>
+Address: **0x5fc50c6108102c7d754471ce0db35b4ca3c19b34**
+
+![usdt](/crypto_imgs/usdt_theter.png) Coin: USDT(TetherUS),  Network: BEP20 / ERC20
+<br/>
+Address: **0x5fc50c6108102c7d754471ce0db35b4ca3c19b34**
+
+or Network: TRC20
+<br/>
+with Address: **TLu3KdjysbVi5uabawzerpqRSS3qZxNXQm**
+
+![bnb](/crypto_imgs/bnb.png) Coin: BNB, Network: BEP20 / ERC20
+<br/>
+Address: **0x5fc50c6108102c7d754471ce0db35b4ca3c19b34**
+
+![ada](/crypto_imgs/ada_cardano.png) Coin: ADA(Cardano), Network: ADA Cardano
+<br/>
+Address: **DdzFFzCqrhsqz8XRBQQ8MQBNBbRjKXykmtxsL86JHfGGWfeA4DFMK5Qp8Byzj4PcrxoVxUyad3T413Fktxg1YzTh6nEfR3HXMcueDFtk**
+
+or Network: BEP20
+<br/>
+with Address: **0x5fc50c6108102c7d754471ce0db35b4ca3c19b34**
+
+![busd](/crypto_imgs/BUSD.png) Coin: BUSD, Network: BEP20, ERC20
+<br/>
+Address: **0x5fc50c6108102c7d754471ce0db35b4ca3c19b34**
+
 <h2>How install</h2>
 The fist step is to copy the files on AddOns folder and then paste it in the path AddOns of Ninjatrader8.
 
