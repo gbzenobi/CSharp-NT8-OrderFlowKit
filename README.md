@@ -16,10 +16,8 @@ Address: **0x5fc50c6108102c7d754471ce0db35b4ca3c19b34**
 ![usdt](/crypto_imgs/usdt_theter.png) Coin: USDT(TetherUS),  Network: BEP20 / ERC20
 <br/>
 Address: **0x5fc50c6108102c7d754471ce0db35b4ca3c19b34**
-
-or Network: TRC20
 <br/>
-with Address: **TLu3KdjysbVi5uabawzerpqRSS3qZxNXQm**
+or Network: _TRC20_, with Address: **TLu3KdjysbVi5uabawzerpqRSS3qZxNXQm**
 
 ![bnb](/crypto_imgs/bnb.png) Coin: BNB, Network: BEP20 / ERC20
 <br/>
@@ -28,10 +26,8 @@ Address: **0x5fc50c6108102c7d754471ce0db35b4ca3c19b34**
 ![ada](/crypto_imgs/ada_cardano.png) Coin: ADA(Cardano), Network: ADA Cardano
 <br/>
 Address: **DdzFFzCqrhsqz8XRBQQ8MQBNBbRjKXykmtxsL86JHfGGWfeA4DFMK5Qp8Byzj4PcrxoVxUyad3T413Fktxg1YzTh6nEfR3HXMcueDFtk**
-
-or Network: BEP20
 <br/>
-with Address: **0x5fc50c6108102c7d754471ce0db35b4ca3c19b34**
+or Network: _BEP20_, with Address: **0x5fc50c6108102c7d754471ce0db35b4ca3c19b34**
 
 ![busd](/crypto_imgs/BUSD.png) Coin: BUSD, Network: BEP20, ERC20
 <br/>
