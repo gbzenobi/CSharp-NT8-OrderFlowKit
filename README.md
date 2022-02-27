@@ -5,33 +5,43 @@ This is a volume analysis toolkit that I started programming in February 2020, i
 <h2>Contribute to this project</h2>
 if you want to contribute, you can donate to any of the following addresses(Binance).
 
-![btc](/crypto_imgs/bitcoin.png) Coin: BTC(Bitcoin), Network: BEP20
+![btc](/crypto_imgs/bitcoin.png) Coin: BTC(Bitcoin), Network: _Bitcoin_
 <br/>
-Address: **0x5fc50c6108102c7d754471ce0db35b4ca3c19b34**
+Address: **1GgmkVTy7EjnuawvC24aUCmpFz48MBJqQm**
 
 ![eth](/crypto_imgs/ethereum.png) Coin: ETH(Ethereum), Network: BEP20 / ERC20
 <br/>
 Address: **0x5fc50c6108102c7d754471ce0db35b4ca3c19b34**
+<br/>
+or Network: _BEP2_, with Address: **bnb136ns6lfw4zs5hg4n85vdthaad7hq5m4gtkgf23**, and MEMO: **461252966**
 
 ![usdt](/crypto_imgs/usdt_theter.png) Coin: USDT(TetherUS),  Network: BEP20 / ERC20
 <br/>
 Address: **0x5fc50c6108102c7d754471ce0db35b4ca3c19b34**
 <br/>
 or Network: _TRC20_, with Address: **TLu3KdjysbVi5uabawzerpqRSS3qZxNXQm**
+<br/>
+or Network: _BEP2_, with Adress: **bnb136ns6lfw4zs5hg4n85vdthaad7hq5m4gtkgf23**, and MEMO: **461252966**
 
 ![bnb](/crypto_imgs/bnb.png) Coin: BNB, Network: BEP20 / ERC20
 <br/>
 Address: **0x5fc50c6108102c7d754471ce0db35b4ca3c19b34**
+<br/>
+or Network: _BEP2_, with Adress: **bnb136ns6lfw4zs5hg4n85vdthaad7hq5m4gtkgf23**, and MEMO: **461252966**
 
 ![ada](/crypto_imgs/ada_cardano.png) Coin: ADA(Cardano), Network: ADA Cardano
 <br/>
 Address: **DdzFFzCqrhsqz8XRBQQ8MQBNBbRjKXykmtxsL86JHfGGWfeA4DFMK5Qp8Byzj4PcrxoVxUyad3T413Fktxg1YzTh6nEfR3HXMcueDFtk**
 <br/>
 or Network: _BEP20_, with Address: **0x5fc50c6108102c7d754471ce0db35b4ca3c19b34**
+<br/>
+or Network: _BEP2_, with Address: **bnb136ns6lfw4zs5hg4n85vdthaad7hq5m4gtkgf23**, and MEMO: **461252966**
 
 ![busd](/crypto_imgs/BUSD.png) Coin: BUSD, Network: BEP20, ERC20
 <br/>
 Address: **0x5fc50c6108102c7d754471ce0db35b4ca3c19b34**
+<br/>
+or Network: _BEP2_, with Address: **bnb136ns6lfw4zs5hg4n85vdthaad7hq5m4gtkgf23**, and MEMO: **461252966**
 
 <h2>How install</h2>
 The fist step is to copy the files on AddOns folder and then paste it in the path AddOns of Ninjatrader8.
