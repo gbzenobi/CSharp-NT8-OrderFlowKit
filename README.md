@@ -2,6 +2,11 @@
 This is a volume analysis toolkit that I started programming in February 2020, it is focused on all Futures markets and written in C#, Particularly runs on the NinjaTrader8 platform, and it is based on the Wyckoff method. Although I think there are more things that can be added I release the code to help the whole community of programmers interested in financial markets and trading, greetings!
 <br/>
 
+<h3>A little of history about the proyect...</h3>
+In mid of 2019 I work in my first investment fund that just started, I learned everything related to financial markets and how a trader operates, then about Dark Pools, HFT(High Frequency trading), Futures(Ninjatrader8), Forex(Metatrader5) and how Market makers work.
+
+During that time I started to develop the first stage of the Order Flow, which I did from scratch.By that time I already understood the contract and volume mechanisms offered by Futures and all these financial instruments, so after many tests and headaches I managed to capture this information to do Type-Reading, Volume Profile, Book Mapping, etc... understanding the Wyckoff method was useful in the beginning but I was falling short, due to the frenzy of modern markets (by the increase of the underlying volatility and amount of robots), more latter i start to research as a freelancer in this area using Machine Learning, Deep Learning and Data Science.
+
 <h2>Contribute to this project</h2>
 if you want to contribute, you can donate to any of the following addresses(Binance).
 
@@ -65,7 +70,22 @@ The bookmap serves to see the depth of market (DOM or Level 2) using a heat map,
 
 It is a very complete tool because it allows us to apply filters of orders and data to numerical and percentage level, plus a wide range of styles that lets us vary from colors to size of the letters and limits, but that's not all ... There is an option called "Realtime save session" within "Book Map Database" with which we can record in real time all the data extracted by the Bookmap and then save it in a .db file, this is very useful because we can reload the session whenever we want and not lose any progress. Another great feature is to be able to use this file (if you know how to read it) for data analysis, applying Machine Learning or any statistical method to look for patterns, in fact this is the purpose of such functionality.
 
-If you see my examples all of it is "1 second" of time-frame, this is because with this setup we can able to see the market in a very precision way. Experts algorithms can use this for detect market manipulation and High frequency trading.
+If you see my examples all of it is "1 second" of time-frame, this is because with this setup we can able to see the market in a very precision way. Experts algorithms can use this for detect market manipulation and High frequency trading(HFT).
+
+Features:
+* Ladder range: x(levels of the ladder of contracts)
+* Market orders calculation: Delta, Total.
+<br/>
+Book map database:
+* Session save file path: filename.db(the ".db" is obligatory)
+* Session load file path: filename.db(the name of the file saved previously)
+* Realtime save session: True/Falta(do you want to save?, enable this option!)
+<br/>
+Book map Filters:
+* Agressive market orders: X(detect agressive volume from X, this is show in the price)
+* Big pending orders: Y(detect orders from Y, it is useful for detect HFT)
+<br/>
+There are many other features that have to do with the tool's style and colors
 
 ![bookmap1](/book_map_imgs/setup.png)
 
