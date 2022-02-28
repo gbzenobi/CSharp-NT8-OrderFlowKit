@@ -75,16 +75,14 @@ If you see my examples all of it is "1 second" of time-frame, this is because wi
 Features:
 * Ladder range: x(levels of the ladder of contracts)
 * Market orders calculation: Delta, Total.
-<br/>
 Book map database:
 * Session save file path: filename.db(the ".db" is obligatory)
 * Session load file path: filename.db(the name of the file saved previously)
 * Realtime save session: True/Falta(do you want to save?, enable this option!)
-<br/>
 Book map Filters:
 * Agressive market orders: X(detect agressive volume from X, this is show in the price)
 * Big pending orders: Y(detect orders from Y, it is useful for detect HFT)
-<br/>
+
 There are many other features that have to do with the tool's style and colors
 
 ![bookmap1](/book_map_imgs/setup.png)
