@@ -174,13 +174,13 @@ Total and Delta and BidAsk volume
 The volume filter is an indispensable weapon when we need to detect areas of important volume, probably the market is in a battle between buyers and sellers. Sometimes we will only filter out a specific amount of volume while at other times we will need a "map" of all incoming volume (from the smallest to the most aggressive). This tool is very useful if is combined, for example with the Book Map.
 
 Features:
-Formula: Delta, Total.
-Min volume filter: X(a volume less than this amount will be discarted)
+* Formula: Delta, Total.
+* Min volume filter: X(a volume less than this amount will be discarted)
 Geometry:
-Drawn: Circle, Rectangle.
-Fill: True, False.
-Agressive level: X(this impact on the size of the volume zone).
-Among others...
+* Drawn: Circle, Rectangle.
+* Fill: True, False.
+* Agressive level: X(this impact on the size of the volume zone).
+* Among others...
 
 Default setup
 ![volumefilter1](/volume_filter_imgs/setup.png)
