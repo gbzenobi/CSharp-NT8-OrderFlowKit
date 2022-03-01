@@ -7,6 +7,12 @@ In mid of 2019 I work in my first investment fund that just started, I learned e
 
 During that time I started to develop the first stage of the Order Flow, which I did from scratch.By that time I already understood the contract and volume mechanisms offered by Futures and all these financial instruments, so after many tests and headaches I managed to capture this information to do Type-Reading, Volume Profile, Book Mapping, etc... understanding the Wyckoff method was useful in the beginning but I was falling short, due to the frenzy of modern markets (by the increase of the underlying volatility and amount of robots), more latter i start to research as a freelancer in this area using Machine Learning, Deep Learning and Data Science.
 
+<h2>Social media</h2>
+
+![ins](/crypto_imgs/Instagram.png) Instagram: www.instagram.com/gab.zenobi/
+<br/>
+![lin](/crypto_imgs/linkedin.png) LinkedIn: www.linkedin.com/in/gabriel-zenobi
+
 <h2>Contribute to this project</h2>
 if you want to contribute, you can donate to any of the following addresses(Binance).
 
